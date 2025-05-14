@@ -1,0 +1,2 @@
+# FragmentsArchicadExample
+Archicad Fragments Exporter.
